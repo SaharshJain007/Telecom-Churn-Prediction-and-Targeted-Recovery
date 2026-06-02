@@ -1,2 +1,2 @@
 # Telecom-Churn-Prediction-and-Targeted-Recovery
-A machine learning predictive engine and interactive Streamlit simulation designed to analyze customer churn and optimize retention profit.
+This repository contains a machine-learning-based predictive model aimed at identifying telecom customer churn. It includes a deployed Streamlit simulation designed to translate predictive data into actionable business strategies by optimizing for maximum profit.
